@@ -1,4 +1,4 @@
-# Heart Failure Analysis
+# Prediction of Heart Disease
 Using ML techniques to predict heart disease from patient data. Combination of cross validation, grid search and Random Forest for training and SHAP analysis for evaluation of features.
 
 ## Goal
